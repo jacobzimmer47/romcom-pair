@@ -19,6 +19,7 @@ We built a web application that will generate a random or user-defined book cove
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+<img width="1262" alt="Screen Shot 2022-09-04 at 1 56 47 PM" src="https://user-images.githubusercontent.com/104015966/188331258-1ad84937-3b3f-4697-9ea1-ac68cec2bfc3.png">
 
 
 
