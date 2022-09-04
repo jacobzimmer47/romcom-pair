@@ -2,7 +2,7 @@
 *:before,
 *:after {
   box-sizing: border-box;
-  font-family: ‘Playfair Display’, serif;
+  font-family: 'Playfair Display', serif;
 }
 body {
   margin: 0;
@@ -53,7 +53,7 @@ body {
 }
 .cover-title {
   bottom: .9em;
-  font-family: ‘Playball’, cursive;
+  font-family: 'Playball', cursive;
   font-size: 4.5em;
   font-weight: normal;
   line-height: 90%;
