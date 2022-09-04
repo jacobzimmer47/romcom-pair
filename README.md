@@ -7,7 +7,7 @@ We built a web application that will generate a random or user-defined book cove
 
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
-1. Go to repo on Github link=[(https://github.com/jacobzimmer47/romcom-pair)]
+1. Go to repo on Github [(https://github.com/jacobzimmer47/romcom-pair)]
 2. Click Fork > Create New Fork
 3. Click Code
 4. Copy the SSH url provided by GitHub
